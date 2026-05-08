@@ -1,0 +1,38 @@
+{
+  "product": "home-file-transfer-nas-backup",
+  "sourceRank": {
+    "rank": 53,
+    "tier": "P2",
+    "score": 54,
+    "domain": "IoT",
+    "ideaNo": 10,
+    "ideaName": "家庭内ファイル転送・NAS・バックアップ",
+    "repositoryName": "home-file-transfer-nas-backup",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "実用性は高いが、安全なファイル操作と復旧設計を先に固める必要がある。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_010_home-file-transfer-nas-backup",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_010_home-file-transfer-nas-backup\\idea_010_home-file-transfer-nas-backup.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "home-file-transfer-nas-backup",
+  "metadataIdea": "家庭内ファイル転送・NAS・バックアップ",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
